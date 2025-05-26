@@ -4,7 +4,7 @@ Short-form modular prompt to support recruiter outreach and follow-up messaging;
 
 ## 📄 Documentation
 
-- [Prompt File](https://github.com/AHFaria/docs-atlas-suite-recruiter-partner-prompt-v1-1/blob/main/01%20%E2%80%93%20Prompt%20%E2%80%93%20Recruiter%20Partner%20Prompt%20v1.1.docx)
+- [Prompt File](https://github.com/AHFaria/docs-atlas-suite-recruiter-partner-prompt-v1-1/blob/main/01-Prompt-Recruiter-Partner-v1.1.docx)
 - [Evaluation Snapshot](https://github.com/AHFaria/docs-atlas-suite-recruiter-partner-prompt-v1-1/blob/main/02%20%E2%80%93%20Evaluation%20Snapshot%20%E2%80%93%20Recruiter%20Partner%20Prompt%20v1.1.docx)
 - [Change Log](https://github.com/AHFaria/docs-atlas-suite-recruiter-partner-prompt-v1-1/blob/main/03%20%E2%80%93%20Change%20Log%20%E2%80%93%20Recruiter%20Partner%20Prompt%20v1.1.docx)
 - [Legal & Attribution](https://github.com/AHFaria/docs-atlas-suite-recruiter-partner-prompt-v1-1/blob/main/04%20%E2%80%93%20Legal%20%26%20Attribution%20%E2%80%93%20Recruiter%20Partner%20Prompt%20v1.1.docx)
