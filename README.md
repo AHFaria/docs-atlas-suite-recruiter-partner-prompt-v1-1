@@ -10,7 +10,7 @@ Short-form modular prompt to support recruiter outreach and follow-up messaging;
 This is the primary file for this module.
 
 ---
-##💬 Overview
+## 💬 Overview
 
 Atlas Recruiter Partner Prompt v1.1 is a modular job support tool designed to help users identify credible recruiting agencies that specialize in their target roles and preferences.
 It prioritizes filters like industry alignment, remote compatibility, and verified platform legitimacy to reduce overwhelm and avoid low-quality sources.
